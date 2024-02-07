@@ -1,0 +1,1 @@
+typedef ResponseCallback<R, E> = void Function(R response, E error);
